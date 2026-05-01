@@ -1,0 +1,5 @@
+.venv/
+.env*
+__pycache__/
+02_Ingestion/**/*.csv
+02_Ingestion/**/*.db

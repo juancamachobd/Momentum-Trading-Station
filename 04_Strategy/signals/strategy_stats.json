@@ -1,0 +1,252 @@
+{
+    "run_date": "2026-04-30T13:11:37.105909",
+    "total_tickers": 30,
+    "processed": 30,
+    "skipped": 0,
+    "total_buy_signals": 204,
+    "total_sell_signals": 197,
+    "todays_buys": [],
+    "todays_sells": [],
+    "signals_by_ticker": {
+        "SNDK": {
+            "buy_signals": 2,
+            "sell_signals": 1,
+            "last_signal": "Hold",
+            "last_price": 1064.2099609375,
+            "last_ema_short": 903.8191917123474,
+            "last_ema_long": 764.9280491460769
+        },
+        "INTC": {
+            "buy_signals": 9,
+            "sell_signals": 9,
+            "last_signal": "Hold",
+            "last_price": 94.75,
+            "last_ema_short": 68.8168243549213,
+            "last_ema_long": 57.994922643116105
+        },
+        "LITE": {
+            "buy_signals": 6,
+            "sell_signals": 6,
+            "last_signal": "Hold",
+            "last_price": 858.3200073242188,
+            "last_ema_short": 832.0874448548241,
+            "last_ema_long": 741.2490272517554
+        },
+        "WDC": {
+            "buy_signals": 7,
+            "sell_signals": 7,
+            "last_signal": "Hold",
+            "last_price": 412.760009765625,
+            "last_ema_short": 364.91203285188413,
+            "last_ema_long": 321.07424356842364
+        },
+        "CIEN": {
+            "buy_signals": 6,
+            "sell_signals": 6,
+            "last_signal": "Hold",
+            "last_price": 475.3900146484375,
+            "last_ema_short": 474.6137804789265,
+            "last_ema_long": 416.1505624964616
+        },
+        "STX": {
+            "buy_signals": 6,
+            "sell_signals": 6,
+            "last_signal": "Hold",
+            "last_price": 643.2999877929688,
+            "last_ema_short": 536.6685850566503,
+            "last_ema_long": 469.51622453319345
+        },
+        "MU": {
+            "buy_signals": 9,
+            "sell_signals": 9,
+            "last_signal": "Hold",
+            "last_price": 518.4600219726562,
+            "last_ema_short": 459.2925664988375,
+            "last_ema_long": 423.14026683490073
+        },
+        "VRT": {
+            "buy_signals": 6,
+            "sell_signals": 5,
+            "last_signal": "Hold",
+            "last_price": 306.17999267578125,
+            "last_ema_short": 298.2932785277323,
+            "last_ema_long": 271.5400758143329
+        },
+        "ON": {
+            "buy_signals": 10,
+            "sell_signals": 9,
+            "last_signal": "Hold",
+            "last_price": 98.86000061035156,
+            "last_ema_short": 82.7425534164331,
+            "last_ema_long": 72.76361744513973
+        },
+        "GLW": {
+            "buy_signals": 4,
+            "sell_signals": 4,
+            "last_signal": "Hold",
+            "last_price": 151.89999389648438,
+            "last_ema_short": 159.82672549699745,
+            "last_ema_long": 146.7077642895361
+        },
+        "DOW": {
+            "buy_signals": 4,
+            "sell_signals": 4,
+            "last_signal": "Hold",
+            "last_price": 39.54999923706055,
+            "last_ema_short": 38.49498207917462,
+            "last_ema_long": 36.416421143446115
+        },
+        "COHR": {
+            "buy_signals": 6,
+            "sell_signals": 6,
+            "last_signal": "Hold",
+            "last_price": 304.92999267578125,
+            "last_ema_short": 308.28279937823373,
+            "last_ema_long": 277.7358065238771
+        },
+        "LYB": {
+            "buy_signals": 8,
+            "sell_signals": 8,
+            "last_signal": "Hold",
+            "last_price": 73.29000091552734,
+            "last_ema_short": 72.29298806161987,
+            "last_ema_long": 68.86706075343547
+        },
+        "APA": {
+            "buy_signals": 7,
+            "sell_signals": 7,
+            "last_signal": "Hold",
+            "last_price": 40.31999969482422,
+            "last_ema_short": 38.27716431338013,
+            "last_ema_long": 35.96298243526972
+        },
+        "DELL": {
+            "buy_signals": 5,
+            "sell_signals": 4,
+            "last_signal": "Hold",
+            "last_price": 205.66000366210935,
+            "last_ema_short": 194.9182136859104,
+            "last_ema_long": 172.77336765773435
+        },
+        "KEYS": {
+            "buy_signals": 6,
+            "sell_signals": 6,
+            "last_signal": "Hold",
+            "last_price": 335.4599914550781,
+            "last_ema_short": 325.55117201988656,
+            "last_ema_long": 299.070968150261
+        },
+        "AMD": {
+            "buy_signals": 9,
+            "sell_signals": 8,
+            "last_signal": "Hold",
+            "last_price": 337.1099853515625,
+            "last_ema_short": 281.059536411516,
+            "last_ema_long": 247.497870863091
+        },
+        "GEV": {
+            "buy_signals": 3,
+            "sell_signals": 3,
+            "last_signal": "Hold",
+            "last_price": 1063.1099853515625,
+            "last_ema_short": 1018.9626947044923,
+            "last_ema_long": 926.0535759357826
+        },
+        "CF": {
+            "buy_signals": 9,
+            "sell_signals": 8,
+            "last_signal": "Hold",
+            "last_price": 126.77999877929688,
+            "last_ema_short": 122.78735618251156,
+            "last_ema_long": 117.12414173919059
+        },
+        "TER": {
+            "buy_signals": 6,
+            "sell_signals": 5,
+            "last_signal": "Hold",
+            "last_price": 306.3299865722656,
+            "last_ema_short": 360.6191590506898,
+            "last_ema_long": 329.31163560363274
+        },
+        "VLO": {
+            "buy_signals": 8,
+            "sell_signals": 8,
+            "last_signal": "Hold",
+            "last_price": 251.3000030517578,
+            "last_ema_short": 237.6391031777865,
+            "last_ema_long": 228.27183926320373
+        },
+        "BKR": {
+            "buy_signals": 9,
+            "sell_signals": 9,
+            "last_signal": "Hold",
+            "last_price": 68.80999755859375,
+            "last_ema_short": 63.685258844013156,
+            "last_ema_long": 61.19918414594963
+        },
+        "TXN": {
+            "buy_signals": 10,
+            "sell_signals": 10,
+            "last_signal": "Hold",
+            "last_price": 269.2200012207031,
+            "last_ema_short": 237.6525356394152,
+            "last_ema_long": 218.75065995455432
+        },
+        "OXY": {
+            "buy_signals": 6,
+            "sell_signals": 6,
+            "last_signal": "Hold",
+            "last_price": 60.7599983215332,
+            "last_ema_short": 58.07155531942589,
+            "last_ema_long": 56.11160406273264
+        },
+        "HAL": {
+            "buy_signals": 5,
+            "sell_signals": 5,
+            "last_signal": "Hold",
+            "last_price": 41.810001373291016,
+            "last_ema_short": 38.87344341444183,
+            "last_ema_long": 37.07970732527107
+        },
+        "LRCX": {
+            "buy_signals": 5,
+            "sell_signals": 5,
+            "last_signal": "Hold",
+            "last_price": 248.75,
+            "last_ema_short": 252.04957148806568,
+            "last_ema_long": 238.28842998988816
+        },
+        "AMAT": {
+            "buy_signals": 6,
+            "sell_signals": 6,
+            "last_signal": "Hold",
+            "last_price": 382.5899963378906,
+            "last_ema_short": 386.5585160657607,
+            "last_ema_long": 366.0560598973597
+        },
+        "MRNA": {
+            "buy_signals": 7,
+            "sell_signals": 7,
+            "last_signal": "Hold",
+            "last_price": 45.720001220703125,
+            "last_ema_short": 51.09837843730746,
+            "last_ema_long": 49.79888490145585
+        },
+        "SLB": {
+            "buy_signals": 13,
+            "sell_signals": 13,
+            "last_signal": "Hold",
+            "last_price": 55.70000076293945,
+            "last_ema_short": 53.12496146942795,
+            "last_ema_long": 50.790462295550924
+        },
+        "IRM": {
+            "buy_signals": 7,
+            "sell_signals": 7,
+            "last_signal": "Hold",
+            "last_price": 114.5199966430664,
+            "last_ema_short": 112.41408537833077,
+            "last_ema_long": 107.45303829262355
+        }
+    }
+}

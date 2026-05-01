@@ -1,0 +1,289 @@
+{
+    "meta": {
+        "total_tickers": 503,
+        "passed_sentiment": 503,
+        "passed_sma": 283,
+        "passed_volume": 235,
+        "passed_history": 503,
+        "final_watchlist": 30,
+        "filtered_reasons": {
+            "negative_sentiment": 0,
+            "below_sma": 220,
+            "low_volume": 48,
+            "insufficient_history": 0,
+            "error": 0
+        }
+    },
+    "watchlist": [
+        {
+            "ticker": "SNDK",
+            "roc_90": 384.92,
+            "current_price": 1064.21,
+            "sma_200": 342.0,
+            "price_vs_sma_pct": 211.17,
+            "avg_volume": 15471715.0,
+            "sentiment": 0.0
+        },
+        {
+            "ticker": "INTC",
+            "roc_90": 161.16,
+            "current_price": 94.75,
+            "sma_200": 39.42,
+            "price_vs_sma_pct": 140.38,
+            "avg_volume": 135458970.0,
+            "sentiment": 0.0
+        },
+        {
+            "ticker": "LITE",
+            "roc_90": 154.6,
+            "current_price": 858.32,
+            "sma_200": 370.73,
+            "price_vs_sma_pct": 131.52,
+            "avg_volume": 5719315.0,
+            "sentiment": 0.0
+        },
+        {
+            "ticker": "WDC",
+            "roc_90": 135.96,
+            "current_price": 412.76,
+            "sma_200": 187.25,
+            "price_vs_sma_pct": 120.43,
+            "avg_volume": 7094775.0,
+            "sentiment": 0.0
+        },
+        {
+            "ticker": "CIEN",
+            "roc_90": 125.61,
+            "current_price": 475.39,
+            "sma_200": 232.61,
+            "price_vs_sma_pct": 104.37,
+            "avg_volume": 2534595.0,
+            "sentiment": 0.0
+        },
+        {
+            "ticker": "STX",
+            "roc_90": 121.27,
+            "current_price": 643.3,
+            "sma_200": 299.51,
+            "price_vs_sma_pct": 114.78,
+            "avg_volume": 3969030.0,
+            "sentiment": 0.0
+        },
+        {
+            "ticker": "MU",
+            "roc_90": 108.77,
+            "current_price": 518.46,
+            "sma_200": 272.74,
+            "price_vs_sma_pct": 90.09,
+            "avg_volume": 41719155.0,
+            "sentiment": 0.0
+        },
+        {
+            "ticker": "VRT",
+            "roc_90": 98.36,
+            "current_price": 306.18,
+            "sma_200": 189.91,
+            "price_vs_sma_pct": 61.23,
+            "avg_volume": 5442440.0,
+            "sentiment": 0.0
+        },
+        {
+            "ticker": "ON",
+            "roc_90": 81.93,
+            "current_price": 98.86,
+            "sma_200": 57.74,
+            "price_vs_sma_pct": 71.2,
+            "avg_volume": 10121245.0,
+            "sentiment": 0.0
+        },
+        {
+            "ticker": "GLW",
+            "roc_90": 75.17,
+            "current_price": 151.9,
+            "sma_200": 98.9,
+            "price_vs_sma_pct": 53.6,
+            "avg_volume": 10681385.0,
+            "sentiment": 0.0
+        },
+        {
+            "ticker": "DOW",
+            "roc_90": 73.69,
+            "current_price": 39.55,
+            "sma_200": 27.16,
+            "price_vs_sma_pct": 45.62,
+            "avg_volume": 14907360.0,
+            "sentiment": 0.0
+        },
+        {
+            "ticker": "COHR",
+            "roc_90": 73.54,
+            "current_price": 304.93,
+            "sma_200": 176.21,
+            "price_vs_sma_pct": 73.05,
+            "avg_volume": 5644110.0,
+            "sentiment": 0.0
+        },
+        {
+            "ticker": "LYB",
+            "roc_90": 72.27,
+            "current_price": 73.29,
+            "sma_200": 53.78,
+            "price_vs_sma_pct": 36.29,
+            "avg_volume": 7227780.0,
+            "sentiment": 0.0
+        },
+        {
+            "ticker": "APA",
+            "roc_90": 72.1,
+            "current_price": 40.32,
+            "sma_200": 26.31,
+            "price_vs_sma_pct": 53.22,
+            "avg_volume": 7608380.0,
+            "sentiment": 0.0
+        },
+        {
+            "ticker": "DELL",
+            "roc_90": 68.54,
+            "current_price": 205.66,
+            "sma_200": 139.97,
+            "price_vs_sma_pct": 46.93,
+            "avg_volume": 6259090.0,
+            "sentiment": 0.0
+        },
+        {
+            "ticker": "KEYS",
+            "roc_90": 68.13,
+            "current_price": 335.46,
+            "sma_200": 214.25,
+            "price_vs_sma_pct": 56.57,
+            "avg_volume": 1069470.0,
+            "sentiment": 0.0
+        },
+        {
+            "ticker": "AMD",
+            "roc_90": 67.67,
+            "current_price": 337.11,
+            "sma_200": 209.39,
+            "price_vs_sma_pct": 61.0,
+            "avg_volume": 39834920.0,
+            "sentiment": 0.0
+        },
+        {
+            "ticker": "GEV",
+            "roc_90": 66.48,
+            "current_price": 1063.11,
+            "sma_200": 702.86,
+            "price_vs_sma_pct": 51.26,
+            "avg_volume": 2501405.0,
+            "sentiment": 0.0
+        },
+        {
+            "ticker": "CF",
+            "roc_90": 62.8,
+            "current_price": 126.78,
+            "sma_200": 93.33,
+            "price_vs_sma_pct": 35.84,
+            "avg_volume": 3791520.0,
+            "sentiment": 0.0
+        },
+        {
+            "ticker": "TER",
+            "roc_90": 60.91,
+            "current_price": 306.33,
+            "sma_200": 206.78,
+            "price_vs_sma_pct": 48.14,
+            "avg_volume": 3384440.0,
+            "sentiment": 0.0
+        },
+        {
+            "ticker": "VLO",
+            "roc_90": 56.13,
+            "current_price": 251.3,
+            "sma_200": 180.82,
+            "price_vs_sma_pct": 38.98,
+            "avg_volume": 3127690.0,
+            "sentiment": 0.0
+        },
+        {
+            "ticker": "BKR",
+            "roc_90": 55.32,
+            "current_price": 68.81,
+            "sma_200": 51.19,
+            "price_vs_sma_pct": 34.43,
+            "avg_volume": 8569945.0,
+            "sentiment": 0.0
+        },
+        {
+            "ticker": "TXN",
+            "roc_90": 53.8,
+            "current_price": 269.22,
+            "sma_200": 190.83,
+            "price_vs_sma_pct": 41.07,
+            "avg_volume": 7675440.0,
+            "sentiment": 0.0
+        },
+        {
+            "ticker": "OXY",
+            "roc_90": 53.66,
+            "current_price": 60.76,
+            "sma_200": 46.62,
+            "price_vs_sma_pct": 30.32,
+            "avg_volume": 14648660.0,
+            "sentiment": 0.0
+        },
+        {
+            "ticker": "HAL",
+            "roc_90": 53.0,
+            "current_price": 41.81,
+            "sma_200": 28.75,
+            "price_vs_sma_pct": 45.43,
+            "avg_volume": 14592380.0,
+            "sentiment": 0.0
+        },
+        {
+            "ticker": "LRCX",
+            "roc_90": 51.21,
+            "current_price": 248.75,
+            "sma_200": 172.37,
+            "price_vs_sma_pct": 44.31,
+            "avg_volume": 9025085.0,
+            "sentiment": 0.0
+        },
+        {
+            "ticker": "AMAT",
+            "roc_90": 51.11,
+            "current_price": 382.59,
+            "sma_200": 266.93,
+            "price_vs_sma_pct": 43.33,
+            "avg_volume": 5500375.0,
+            "sentiment": 0.0
+        },
+        {
+            "ticker": "MRNA",
+            "roc_90": 47.72,
+            "current_price": 45.72,
+            "sma_200": 35.56,
+            "price_vs_sma_pct": 28.56,
+            "avg_volume": 5510595.0,
+            "sentiment": 0.0
+        },
+        {
+            "ticker": "SLB",
+            "roc_90": 46.94,
+            "current_price": 55.7,
+            "sma_200": 40.84,
+            "price_vs_sma_pct": 36.4,
+            "avg_volume": 15085365.0,
+            "sentiment": 0.0
+        },
+        {
+            "ticker": "IRM",
+            "roc_90": 46.4,
+            "current_price": 114.52,
+            "sma_200": 96.51,
+            "price_vs_sma_pct": 18.66,
+            "avg_volume": 1406825.0,
+            "sentiment": 0.0
+        }
+    ]
+}
